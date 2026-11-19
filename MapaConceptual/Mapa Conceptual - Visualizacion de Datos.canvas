@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"558a8f593fc3b92c","x":0,"y":-1200,"width":240,"height":200,"color":"#4571d9","type":"text","text":"VISUALIZACIÓN DE DATOS\n\nTransforma datos en representaciones\ngráficas para facilitar su comprensión,\nanálisis y comunicación."},
+		{"id":"e76fa40549e1db10","x":240,"y":-990,"width":250,"height":154,"color":"4","type":"text","text":"CALIDAD DE DATOS\n\nEvalúa si los datos son adecuados y confiables para su utilización."},
+		{"id":"f3314b97c190f556","x":490,"y":-990,"width":250,"height":156,"color":"4","type":"text","text":"TIPOS DE DATOS\n\nClasifica los datos según sus características y su naturaleza."},
+		{"id":"f86eccb15d0426de","x":-10,"y":-990,"width":250,"height":156,"color":"4","type":"text","text":"CONOCIMIENTO\n\nSe obtiene al interpretar la información y comprender su contexto."},
+		{"id":"4ee2da74acd32fce","x":-250,"y":-990,"width":250,"height":158,"color":"4","type":"text","text":"INFORMACIÓN\n\nSurge cuando los datos se organizan y adquieren significado."},
+		{"id":"77739bae4c641ad3","x":-500,"y":-990,"width":250,"height":158,"color":"4","type":"text","text":"DATOS\n\nSon los elementos básicos que se recopilan para su posterior análisis."},
+		{"id":"f7de50d472530c1c","x":-500,"y":-800,"width":250,"height":201,"color":"4","type":"text","text":"DISEÑO DE INFORMACIÓN\n\nOrganiza y presenta la información de manera clara, comprensible y visualmente adecuada."},
+		{"id":"3528b4f19092ef3b","x":-250,"y":-800,"width":250,"height":201,"color":"4","type":"text","text":"COMUNICACIÓN VISUAL\n\nTransmite mensajes e ideas mediante elementos gráficos como colores, formas e imágenes."},
+		{"id":"395505b0ac36b6af","x":0,"y":-797,"width":250,"height":198,"color":"4","type":"text","text":"GRÁFICOS ESTADÍSTICOS\n\nRepresentan datos mediante barras, líneas, sectores y otras formas visuales."},
+		{"id":"72230df3ffaa1fff","x":250,"y":-797,"width":250,"height":198,"color":"4","type":"text","text":"HERRAMIENTAS DE VISUALIZACIÓN\n\nSon aplicaciones que permiten crear, explorar y presentar representaciones visuales de datos."},
+		{"id":"e7de20d0747541f8","x":500,"y":-797,"width":250,"height":198,"color":"4","type":"text","text":"TOMA DE DECISIONES\n\nUtiliza la información analizada para seleccionar alternativas y resolver problemas."}
+	],
+	"edges":[]
+}
